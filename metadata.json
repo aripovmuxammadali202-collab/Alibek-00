@@ -1,0 +1,6 @@
+{
+  "name": "Math & IT Nexus — English Mathematics & Computer Science (Grades 5-11)",
+  "description": "5-11 sinflar uchun ingliz tilidagi matematika va IT kutubxonasi, teoremalar va masalalar tahlili, alohida munozara sahifalari, shaxsiy admin va qiroatxona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
